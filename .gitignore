@@ -1,0 +1,12 @@
+# Ignore data and Img folders
+/data
+/images
+
+# Compiler files
+/__pycache__
+/.vscode
+
+# Extras
+/titanic
+main.py
+titanic_model.py
